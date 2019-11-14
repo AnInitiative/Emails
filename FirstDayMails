@@ -1,0 +1,103 @@
+vikas
+Tue, Nov 12, 2:47 PM (2 days ago)
+to Manupuri, me
+
+Hi,
+
+Can you please translate the entire discussion in English?
+
+Thanks,
+-Vikas.
+
+On Tue, 12 Nov 2019 at 14:46, vikas <pvssvikas@gmail.com> wrote:
+Update found from hangouts chat ...
+
+how to deploy a simple html login page on google cloud platform search chesanu bava garu
+and morning koncham html meda work chesanu like how to implement a button and adding links and how to depict or include a picture try chesanu
+ninna manam matladukunna questions meeda koncham notes prepare chesanu
+on the whole eroju ragane knchm confusing ga anipinchindi bava garu intially ela strt cheyali m cheyali ani kasepu ardam kaledu
+taruvatha ala ala mana questions search chesthu velthu unna akadinundu w3school tutorial and user story 1 try chesusthunte konni vere vi kavalsi ochay
+1.firstly login page create chesukunaka. adi deploy chesukovadaniki oka URL mandatory next to it creating a story bucket and naming it and mentioning a storage location to it and also mentioning the places where it can work
+eroju chesina pani konchem sequence lo mention cheyalekapoyanu bava garu konchem kastangane untundi ardam chesukovadaniki. sry for not mentioning the work that had been  carried out today in a sequential order
+
+======================================
+vikas
+Sun, Nov 10, 4:59 PM (4 days ago)
+to Manupuri, me
+
+can you come up with a plan for achieving the user stories and a favorable timeline?
+
+Thanks,
+-Vikas.
+
+========================================
+vikas
+Sun, Nov 10, 4:58 PM (4 days ago)
+to Manupuri, me
+
+nice,
+
+now can you describe more about the Application and how you want to build it?
+
+Q's
+Application technology?
+expecting to use google login API? or traditional user name / password?
+or both?
+where will we save data -- DB choice?
+how will the application keep up with multiple users registering for multiple events? how will we scan or trigger eMail for all the registered users at a registered time?
+will we use google api for sending eMail? or how is it expected to get done?
+can we break the whole application idea into smaller chunks, so that we can have incremental progress?
+
+like,
+
+User Story 1:
+deploy the simple application to the cloud, and gain the ability to show a login page.
+
+User story 2:
+let the user get registered using his eMail
+
+User Stroy 3:
+Let the user login using his registered account, and get to see his home page.
+
+User Story 4:
+Display possible events on the home page, for user selection.
+
+User Story 5:
+save the user's selection, and make sure to display it back, when he logs in.
+
+User Story 6:
+Send some dummy eMail, to a registered user.
+
+User Story 7:
+send an eMail notification, for a registered event.
+
+User Story 8:
+Allow him to delete/modify any registered events; allow notifications as a configurable option.
+
+User Story 9:
+Allow the user to delete his account.
+
+User Story 10:
+Display metrics, to show no.of notifications sent to date, and related events.
+
+On Sun, 10 Nov 2019 at 16:46, Manupuri Harish Chandra <manupuriharishchandra@gmail.com> wrote:
+
+========================================
+Application construction :
+TITLE Of The Application : Events Scheduler 
+Events Involved : most importantly focusing on wake-up time, lunch time and bed time
+Furthermore events like workout , time spending on web applications , some other important routines in day to day life.
+The type of events may vary depending up on their requirements and interest apart from the three main events like wake-up , lunch and sleep events .
+In order to use this web application by the user , one unique ID is provided and the user should need to register with it by providing the required information like name , gender , age and his interests on various of events and most importantly providing mail and accepting the notifications through mail.  .
+
+
+
+On Sun, Nov 10, 2019 at 2:54 PM Manupuri Harish Chandra <manupuriharishchandra@gmail.com> wrote:
+differences between RAM and ROM
+VLSI-Very large scale integrated circuit
+interzer represented as two bytes
+diferrence btw 8bit 16bit 32bit 64bit processors
+micro processor mirco controller
+ashkey chat , UTF8 , UTF16 Char , white char , character encoding .
+addition X concatination
+array string 
